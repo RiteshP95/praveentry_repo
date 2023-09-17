@@ -48,6 +48,10 @@ Scanner sc= new Scanner(System.in);
         int $=24;
         
 
+        int a= 24;
+        int b=25;
+
 
     }
+
 }
